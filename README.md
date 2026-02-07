@@ -1,6 +1,6 @@
 # 📊 Machine Learning & Data Science Projects
 
-# This repository contains hands-on Machine Learning and Data Science projects developed using Python and Google Colab. Each project demonstrates practical application of algorithms, data analysis, and visualization techniques.
+# This repository contains hands-on Machine Learning and Data Science projects.
 
 # 🗂 Projects Overview
 # Iris Dataset Projects
